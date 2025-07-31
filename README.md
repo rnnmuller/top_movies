@@ -5,6 +5,6 @@ Permite ao usuário realizar consultas por gênero, tag livre, prefixo e filmes 
 Utiliza estruturas de dados como Ternary Search Tree (TST) e Hash para uma consulta ágil dos dados.
 
 Dataset necessário:
-https://grouplens.org/datasets/movielens/latest/ .
+https://grouplens.org/datasets/movielens/latest/.
 Para melhor aproveitamento utiize a versão FULL
 arquivos necessários: 'tags.csv', 'movies.csv' e 'ratings.csv'
